@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+malimg_paper_dataset_imgs/
+newdata/
